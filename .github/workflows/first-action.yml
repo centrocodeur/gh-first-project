@@ -5,4 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Display message
-        run: echo "Hello worl!"
+        run: |
+           echo "Hello world 1!"
+           echo "Hello world 1!"
